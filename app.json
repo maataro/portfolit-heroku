@@ -1,0 +1,8 @@
+{
+  "name": "Portfolio",
+  "description": "Portfolio of my games.",
+  "repository": "https://github.com/maataro/portfolio-heroku",
+  "logo": "",
+  "keywords": ["node"],
+  "image": "heroku/nodejs"
+}
